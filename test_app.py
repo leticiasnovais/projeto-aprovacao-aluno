@@ -1,6 +1,5 @@
 # Testes gerados com o GitHub Copilot.
-# Prompt utilizado:
-# "Crie testes utilizando pytest para a função verificar_aprovacao."
+# Prompt utilizado: "Crie testes utilizando pytest para a função verificar_aprovacao."
 
 import pytest
 from app import verificar_aprovacao

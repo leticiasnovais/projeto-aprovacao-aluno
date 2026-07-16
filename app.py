@@ -1,8 +1,5 @@
 # Gerado com o GitHub Copilot.
-# Prompt utilizado:
-# "Crie uma função em Python chamada verificar_aprovacao que receba duas notas,
-# valide se estão entre 0 e 10, calcule a média e retorne 'Aprovado' para média
-# maior ou igual a 7 e 'Reprovado' caso contrário."
+# Prompt utilizado: "Crie uma função em Python chamada verificar_aprovacao que receba duas notas,  valide se estão entre 0 e 10, calcule a média e retorne 'Aprovado' para média maior ou igual a 7 e 'Reprovado' caso contrário."
 
 """Verificador de aprova��o de aluno.
 
